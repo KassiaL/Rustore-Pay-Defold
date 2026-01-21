@@ -1,0 +1,5 @@
+[project]
+title = Rustore-Pay-Defold
+
+[library]
+include_dirs = extension_rustore_pay
